@@ -1,5 +1,5 @@
 # Tilers Font
-An iconic SVG font specially designed for tiling window manger users. In the current state it's a combination of [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans), [Vazir](https://github.com/rastikerdar/vazir-fontkkgikjkk), [Fontawesome](https://github.com/FortAwesome/Font-Awesome), and other SVG icons.
+An iconic SVG font specially designed for tiling window manger users. In the current state it's a combination of [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans), [Vazir](https://github.com/rastikerdar/vazir-font), [Fontawesome](https://github.com/FortAwesome/Font-Awesome), and other SVG icons.
 
 ## Features
 1. Supporting Persian/Farsi and Arabic gliphs  — Using Vazir Font
