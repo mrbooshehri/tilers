@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg221"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="volom down.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs215" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="439.41636"
+     inkscape:cy="502.04582"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-midpoints="true">
+    <sodipodi:guide
+       position="-5.0862631e-06,52.916663"
+       orientation="0,-1"
+       id="guide1048" />
+    <sodipodi:guide
+       position="75.848259,211.66667"
+       orientation="0,-1"
+       id="guide144" />
+    <sodipodi:guide
+       position="211.66667,269.38659"
+       orientation="1,0"
+       id="guide146" />
+    <sodipodi:guide
+       position="52.916667,269.38659"
+       orientation="1,0"
+       id="guide148" />
+    <sodipodi:guide
+       position="132.29166,211.66667"
+       orientation="1,0"
+       id="guide133" />
+    <sodipodi:guide
+       position="52.916666,132.29167"
+       orientation="0,-1"
+       id="guide135" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata218">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path903-7-0-5-7-2-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.6057px;line-height:1.25;font-family:'Hack Nerd Font';-inkscape-font-specification:'Hack Nerd Font';direction:rtl;stroke-width:0.38849"
+       d="m 71.429997,52.916665 c -10.179624,0 -18.51333,8.333988 -18.51333,18.513723 V 193.15293 c 0,10.17974 8.333706,18.51374 18.51333,18.51374 H 193.15281 c 10.17962,0 18.51386,-8.334 18.51386,-18.51374 V 71.430388 c 0,-10.179735 -8.33424,-18.513723 -18.51386,-18.513723 z m 0,8.817963 H 193.15281 c 5.44815,0 9.69649,4.247471 9.69649,9.69576 V 193.15293 c 0,5.44829 -4.24834,9.69573 -9.69649,9.69573 H 71.429997 c -5.448147,0 -9.696492,-4.24744 -9.696492,-9.69573 V 71.430388 c 0,-5.448289 4.248345,-9.69576 9.696492,-9.69576 z m 52.738743,31.885649 c -1.14988,0 -2.1142,0.407986 -2.89296,1.224136 L 100.13107,115.98881 H 83.437724 c -1.113019,0 -2.077341,0.40799 -2.893143,1.22414 -0.77929,0.81615 -1.168582,1.78031 -1.168582,2.89314 v 24.37204 c 0,1.11283 0.389292,2.07697 1.168582,2.89314 0.815802,0.81615 1.780124,1.22414 2.893143,1.22414 h 16.693346 l 21.14471,21.14439 c 0.77876,0.81615 1.74308,1.22414 2.89296,1.22414 1.11302,0 2.05865,-0.40799 2.83759,-1.22414 0.81615,-0.81616 1.22414,-1.7803 1.22414,-2.89314 V 97.737556 c 0,-1.112659 -0.40799,-2.076993 -1.22414,-2.893143 -0.77894,-0.81615 -1.72457,-1.224136 -2.83759,-1.224136 z m 20.44287,33.465283 c -3.0743,0 -5.54869,2.47441 -5.54869,5.54839 0,3.07397 2.47439,5.54926 5.54869,5.54926 h 40.65217 c 3.07359,0 5.54799,-2.47529 5.54799,-5.54926 0,-3.07398 -2.4744,-5.54839 -5.54799,-5.54839 z" />
+  </g>
+</svg>
