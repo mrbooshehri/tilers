@@ -19,4 +19,4 @@ An iconic SVG font specially designed for tiling window manger users. In the cur
 - [ ] Add Social media platform icon
 
 # To contributors 
-I'm really happy that you find this project interesting to contribute. Honestly I have no idea how you guys can contribute but for now you can fork the project, make your changes, and submit pull request.
+I'm really happy that you find this project interesting to contribute. Honestly I have no idea how you guys can contribute and I don't have any experience in fonts project so I'm widely open to get your comments and feedbacks. For now you can create your desire icon according to [templates](./Templatetheihtsdfkkkksdiiiiiikjkkj) then submit a pull request. Also you can add your icon request by opening an [issue](https://github.com/mrbooshehri/tilers/issues/new?assignees=&labels=enhancement&template=add-icon-request.md&title=Add+icon+request).
